@@ -18,4 +18,4 @@ Just type the following command in any location:
 ## Uninstall
 Type the commands (**WARNING! BE CAREFUL**):
 - `sudo rm /etc/systemd/system/automaticbluetooth.service`
-- `sudo rm -rf /home/automaticbluetooth
+- `sudo rm -rf /home/automaticbluetooth`
