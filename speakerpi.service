@@ -1,0 +1,10 @@
+[Unit]
+Description=SpeakerPi Bluetooth service
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python3 /home/speakerpi/speakerpi.py
+
+[Install]
+WantedBy=multi-user.target
