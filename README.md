@@ -3,9 +3,9 @@
 ## What is it?
 *AutomaticBluetooth* is a script written in [Python](https://www.python.org).
 It works like this:
-- On device connect:
-- [x] Make Discoverable
 - On device disconnect:
+- [x] Make Discoverable
+- On device connect:
 - [x] Stop Discoverable
 
 # Seems to be working! How to download it?
