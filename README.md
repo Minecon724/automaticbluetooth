@@ -12,10 +12,10 @@ It works like this:
 Complete the following procedures:
 
 ## If you want to install it,
-just type the following command in any location:
+If you want to install this, just type the following command in any location:
 - `bash <(curl -s https://raw.githubusercontent.com/Minecon724/automaticbluetooth/master/setup.sh)`
 
-## But if you want to delete it,
-type the commands (**WARNING! BE CAREFUL**):
+## Uninstall
+But if you want to delete, type these commands (**WARNING! BE CAREFUL**):
 - `sudo rm /etc/systemd/system/automaticbluetooth.service`
 - `sudo rm -rf /home/automaticbluetooth`
