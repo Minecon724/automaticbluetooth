@@ -1,7 +1,7 @@
 # AutomaticBluetooth
 
 ## What is it?
-*AutomaticBluetooth* is a script written in [Python](https://www.python.org).
+*AutomaticBluetooth* is a script written in [Python](https://www.python.org) for Raspberry Pi.
 It works like this:
 - On device disconnect:
 - [x] Make Discoverable
