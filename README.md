@@ -1,3 +1,5 @@
+serio patrzysz na to? xd
+
 # AutomaticBluetooth
 
 ## What is it?
@@ -19,3 +21,4 @@ If you want to install this, just type the following command in any location:
 But if you want to delete, type these commands (**WARNING! BE CAREFUL**):
 - `sudo rm /etc/systemd/system/automaticbluetooth.service`
 - `sudo rm -rf /home/automaticbluetooth`
+
