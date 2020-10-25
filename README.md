@@ -1,5 +1,3 @@
-serio patrzysz na to? xd
-
 # AutomaticBluetooth
 
 ## What is it?
